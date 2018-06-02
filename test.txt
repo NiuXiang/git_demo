@@ -1,4 +1,3 @@
 Git is a distributed version control system.
 Git is free software.
-
-this is the 3rd modefied!
+git 就是比SVN好用
